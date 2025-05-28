@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+h2{
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 3px;
+}
+
+h3{
+     font-size: 18px;
+    font-weight: 600;
+    padding-top: 11px;
+}
+h4{
+     font-size: 19px;
+    font-weight: 500;
+    padding-top: 12px;
+}
